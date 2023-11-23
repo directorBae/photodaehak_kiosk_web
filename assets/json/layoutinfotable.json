@@ -1,0 +1,109 @@
+[
+    {
+      "layoutname": "ho-0-basic",
+      "showname": "가로 무틀",
+      "sampleimage": "assets/images/ho-0-basic-display.png",
+      "srcNum": 1,
+      "layoutHW": [600, 900],
+      "srcHW": [600, 900],
+      "srcloc": [
+        [0, 0]
+      ]
+    },
+    {
+      "layoutname": "ho-1-basic",
+      "showname": "가로 1분할",
+      "sampleimage": "assets/images/ho-1-basic-display.png",
+      "srcNum": 1,
+      "layoutHW": [600, 900],
+      "srcHW": [552.89, 727.83],
+      "srcloc": [
+        [23.525, 23.525]
+      ]
+    },
+    {
+      "layoutname": "ho-1-right",
+      "showname": "가로 1분할 (우측로고)",
+      "sampleimage": "assets/images/ho-1-right-display.png",
+      "srcNum": 1,
+      "layoutHW": [600, 900],
+      "srcHW": [476.43, 852.09],
+      "srcloc": [
+        [23.525, 23.525]
+      ]
+    },
+    {
+      "layoutname": "ho-2-basic",
+      "showname": "가로 2분할",
+      "sampleimage": "assets/images/ho-2-basic-display.png",
+      "srcNum": 2,
+      "layoutHW": [600, 900],
+      "srcHW": [429.38, 414.21],
+      "srcloc": [
+        [23.525, 23.525],
+        [461.551, 23.525]
+      ]
+    },
+    {
+      "layoutname": "ho-4-basic",
+      "showname": "가로 4분할",
+      "sampleimage": "assets/images/ho-4-basic-display.png",
+      "srcNum": 4,
+      "layoutHW": [600, 900],
+      "srcHW":[220.39, 414.21],
+      "srcloc": [
+        [23.525, 23.525],
+        [461.551, 23.525],
+        [23.525, 276.447],
+        [461.551, 276.447]
+      ]
+    },
+    {
+      "layoutname": "ve-0-basic",
+      "showname": "세로 무틀",
+      "sampleimage": "assets/images/ve-0-basic-display.png",
+      "srcNum": 1,
+      "layoutHW": [900, 600],
+      "srcHW": [900, 600],
+      "srcloc": [
+        [0, 0]
+      ]
+    },
+    {
+      "layoutname": "ve-1-basic",
+      "showname": "세로 1분할",
+      "sampleimage": "assets/images/ve-1-basic-display.png",
+      "srcNum": 1,
+      "layoutHW": [900, 600],
+      "srcHW":[710.08, 529.37],
+      "srcloc": [
+        [29.589, 35.293]
+      ]
+    },
+    {
+      "layoutname": "ve-2-basic",
+      "showname": "세로 2분할",
+      "sampleimage": "assets/images/ve-2-basic-display.png",
+      "srcNum": 2,
+      "layoutHW": [900, 600],
+      "srcHW": [352.08, 552.89],
+      "srcloc": [
+        [23.525, 23.525],
+        [23.525, 170.575]
+      ]
+    },
+    {
+      "layoutname": "ve-4-basic",
+      "showname": "세로 4분할",
+      "sampleimage": "assets/images/ve-4-basic-display.png",
+      "srcNum": 4,
+      "layoutHW": [900, 600],
+      "srcHW": [352.08, 264.69],
+      "srcloc": [
+        [23.525, 23.525],
+        [313.616, 23.525],
+        [23.525, 397.026],
+        [313.616, 397.026]
+      ]
+    }
+  ]

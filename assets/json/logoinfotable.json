@@ -1,0 +1,76 @@
+[
+    {
+        "logoname": "epidemic",
+        "showname": "EpideMIC",
+        "sampleimage": "assets/images/logo-epidemic.png"
+    },
+
+    {
+        "logoname": "pitchhigh",
+        "showname": "PitchHigh",
+        "sampleimage": "assets/images/logo-pitchhigh.png"
+    },
+
+    {
+        "logoname": "unich",
+        "showname": "UNICH",
+        "sampleimage": "assets/images/logo-unich.png"
+    },
+
+    {
+        "logoname": "peak",
+        "showname": "PEAK",
+        "sampleimage": "assets/images/logo-peak.png"
+    },
+
+    {
+        "logoname": "hexa",
+        "showname": "HeXA",
+        "sampleimage": "assets/images/logo-hexa.png"
+    },
+
+    {
+        "logoname": "junto",
+        "showname": "JUNTO",
+        "sampleimage": "assets/images/logo-junto.png"
+    },
+
+    {
+        "logoname": "nest",
+        "showname": "NEST",
+        "sampleimage": "assets/images/logo-nest.png"
+    },
+
+    {
+        "logoname": "ivf",
+        "showname": "IVF",
+        "sampleimage": "assets/images/logo-ivf.png"
+    },
+
+    {
+        "logoname": "rockets",
+        "showname": "UNIST ROCKETS",
+        "sampleimage": "assets/images/logo-rockets.png"
+    },
+
+    {
+        "logoname": "ensemble",
+        "showname": "ENSEMBLE",
+        "sampleimage": "assets/images/logo-ensemble.png"
+    },
+
+    {
+        "logoname": "czardas",
+        "showname": "CZARDAS",
+        "sampleimage": "assets/images/logo-czardas.png"
+    },
+
+    {
+        "logoname": "uni",
+        "showname": "UNI",
+        "sampleimage": "assets/images/logo-uni.png"
+    }
+
+
+    
+]
